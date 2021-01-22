@@ -50,7 +50,7 @@ def file_search(cwd):
 program_state = True
 
 
-pictures_array = ["/home/sergey/Downloads/ussr.png", "/home/sergey/Downloads/our_dream.png", "/home/sergey/Pictures/picture4.jpg", "/home/sergey/Pictures/oboi.jpg"]
+pictures_array = []
 
 time_delay = 60 # set default time of delay
 
